@@ -12,4 +12,5 @@ This is the back-end component of ReX, an AI coach who serves as a steadfast car
 
 ## Project Slides and Demo
 [QuantumBot Slides](https://pitch.com/v/quantumbot-beqi5b)
+
 [Loom Demo](https://www.loom.com/share/30f3cbb479af46a7b87a1067df054e31?sid=3854b0ca-8679-4b3a-9d15-f9e77432e6c9)
